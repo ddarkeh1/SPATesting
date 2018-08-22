@@ -10,5 +10,8 @@ Project that implements a .net core 2.1 api and utilises Angular to consume it
 Core 2.1, npm, angular6
 
 ## Built With
-ASP Core 2.1 - API Framework
-Angular - Client Side Framework
+- ASP Core 2.1 - API Framework
+- Angular - Client Side Framework
+- Bootswatch
+- Alertify
+- Auth0 - angular-jwt
