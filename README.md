@@ -6,7 +6,7 @@ Project that implements a .net core 2.1 api and utilises Angular to consume it
 - appsettings to modify to modify datasource/jwt token 
 - Run dotnet ef update in the api directory to run migrations for the DB, do this after running application atleast one time
 
-### Prerequisites
+## Prerequisites
 Core 2.1, npm, angular6
 
 ## Built With
