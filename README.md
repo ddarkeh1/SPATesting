@@ -8,11 +8,10 @@ Project that implements a .net core 2.1 api and utilises Angular to consume it
 
 ## API
 
-POST <Server>/api/auth/register - username, password body
-POST <Server>/api/auth/login - username, password body | recieve token
-GET <Server>/api/users - Authorization header
-GET <Server>/api/users/{id} - Authorization header
-
+- POST <Server>/api/auth/register - username, password body
+- POST <Server>/api/auth/login - username, password body | recieve token
+- GET <Server>/api/users - Authorization header
+- GET <Server>/api/users/{id} - Authorization header
 
 ## Prerequisites
 Core 2.1, npm, angular6
